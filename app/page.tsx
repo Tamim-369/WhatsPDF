@@ -67,7 +67,7 @@ export default function Home() {
               <br className="mb-4" />
               Upload your document, and our chatbot will answer
               questions,summarize content, and answer all your quoerys ideal for
-              everyone, <span>WhatsPDF</span>
+              everyone, <span>WhatsPDF </span>
               turns static documents into{" "}
               <span className="font-bold">dynamic conversations </span>
               enhancing productivity 10x fold effortlessly
